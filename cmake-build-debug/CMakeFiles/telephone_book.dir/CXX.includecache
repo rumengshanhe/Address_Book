@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/code/telephone_book/main.cpp
+telephone_Book.h
+/code/telephone_book/telephone_Book.h
+
+/code/telephone_book/telephone_Book.h
+iostream
+-
+string
+-
+cstdio
+-
+

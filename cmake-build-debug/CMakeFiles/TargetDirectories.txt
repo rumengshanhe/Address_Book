@@ -1,0 +1,3 @@
+/code/telephone_book/cmake-build-debug/CMakeFiles/edit_cache.dir
+/code/telephone_book/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/code/telephone_book/cmake-build-debug/CMakeFiles/telephone_book.dir
